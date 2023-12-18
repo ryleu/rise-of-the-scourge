@@ -1,0 +1,1 @@
+- The most powerful of [[The Vilebeasts]], per [[King Leoben's Letter]].

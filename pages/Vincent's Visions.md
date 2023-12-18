@@ -1,0 +1,23 @@
+- After talking to—and subsequently killing—Vincent, the party entered his cell and found visions carved into the walls.
+-
+- > [[Vivre Rahon]] will be infected with [[Scourge Kiss]] and turn into [[The Stalker]].
+- This vision has already come true. The party slew [[The Stalker]].
+-
+- > [[The Golden Threads]] ? We won’t get them.
+- This may be in reference to the fact that the party found [[The Golden Threads]] before [[The Order of Silence]] did.
+-
+- > [[Austasia]] doesn’t belong to us yet! But maybe soon?
+- It seems that the party thwarted this for now by destroying [[The Stalker]].
+-
+- > The Mythling father will die at our hands hahahahahahahahaha.
+- Poor [[Glubathan Nordicus Phimata V]].
+-
+- > Red red, old target…Pink Pink, New Target!
+- Unsure if this has come true. Who or what is pink? Perhaps [[Rosemary Holloway]]?
+-
+- > Yellow Sword? Is it ours? Can’t see yet.
+- Unknown what this references. Perhaps one of [[The Relics of Light]]?
+-
+- > Storm… Soon… soon indeed.
+- Could be in reference to [[The Storm]]?
+-
