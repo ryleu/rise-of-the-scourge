@@ -1,4 +1,4 @@
-- | Places| People|Concepts| Relics|
+- | Kingdom| Devotee|Sphere| Relic|
   |--|--|--|--|
   |[[Akerheim]]|[[Osiren the Sword]]|Resolve|[[Evalla’s Holy Blade]]|
   |[[Lashana]]|[[Laila the Merciful]]|Life|[[The Pure Silk]]|
