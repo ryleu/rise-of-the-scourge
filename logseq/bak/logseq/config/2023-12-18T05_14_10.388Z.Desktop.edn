@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["table of people, gods, and places" "king leoben's journal"]
+ :favorites ["king leoben's letter" "king leoben's journal" "the five devout"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -411,4 +411,7 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
+ :publishing/all-pages-public? true}

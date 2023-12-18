@@ -1,1 +1,1 @@
--
+- Raznesh, also known as the Scourge Father, is an elder god. [[The Scourge]] is an extension of Raznesh. It is also known as his will or his body. Raznesh resides in [[Vemosa]], his self-created realm of darkness and hate, biding his time. He intends to infect the world with [[The Scourge]], turning all creatures within into [[Scourge Thralls]].
