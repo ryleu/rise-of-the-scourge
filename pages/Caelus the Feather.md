@@ -1,0 +1,1 @@
+- Protected [[Sh'Rasa]] , wielded [[The Shadowslayer Twinblades]] , and embodied the sphere of Freedom.

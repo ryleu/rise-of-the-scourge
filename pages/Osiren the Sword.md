@@ -1,0 +1,1 @@
+- Protected [[Akerheim]], wielded [[Evalla’s Holy Blade]], and embodied the sphere of Resolve.
