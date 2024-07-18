@@ -1,0 +1,1 @@
+- Jelen Stinger the head advisor to [[Alderman Ravenswon]]. She suspected him of some kind of foul play and investigated him. Whatever she found, she was captured and made a sacrifice for, but she wrote down what she saw, and her notes were found in the [[Castle Bellborn]] Library.

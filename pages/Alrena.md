@@ -1,0 +1,1 @@
+- Alrena is [[Jelen Stinger]]'s scribe. When [[Jelen Stinger]] knew that she was about to be captured, she found Alrena and entrusted the citizens safety to her. Alrena lead a group of fearful citizens out of [[Everhome]], and they became the refugee camp.

@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["king leoben's journal" "king leoben's letter" "the five devout"]
+ :favorites ["The New Devout" "king leoben's journal" "king leoben's letter" "the five devout"]
 
  ;; Set flashcards interval.
  ;; Expected value:

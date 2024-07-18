@@ -1,0 +1,1 @@
+- A halfling that was imprisoned with [[Jelen Stinger]], but managed to escape with the location of [[Jelen's Notes]].

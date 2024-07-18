@@ -1,0 +1,5 @@
+- Noel Ashtenbloom is a cursed 13 year old who made an unspoken deal with a mysterious patron. She comes from a town in [[Austasia]] where she and her father lived for years growing pumpkins to avoid the hectic life of nobility.
+- She has the body of a 23 year old.
+- The party suspects her deal involved trading ten years of her life for warlock powers.
+- The party suspects her patron may be a [Scourge]([[The Scourge]])-infected fae.
+- The party suspects the reason she cannot talk about the deal is because of a clause in the deal.

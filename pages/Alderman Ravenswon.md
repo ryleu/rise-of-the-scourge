@@ -1,0 +1,1 @@
+- A former Alderman, leader of [[Everhome]]. He was once a great leader before he turned against his citizens. He was responsible for bringing the [[Observers]] to [[Everhome]], and was connected to [[The Lurker]] before [[The New Devout]] slew him.

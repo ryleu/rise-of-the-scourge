@@ -1,0 +1,3 @@
+- Originally from [[Akerheim]], Wayde is a widower father who lost his daughter to [[The Scourge]]. In his past life, he was the first mate of [[Captain Thorn Halstroff]] in a raiding crew.
+- The leader of [[The New Devout]], successor to [[Osiren the Sword]].
+- Currently wields [[Evalla’s Holy Blade]].

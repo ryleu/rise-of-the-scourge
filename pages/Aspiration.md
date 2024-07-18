@@ -1,0 +1,1 @@
+- A tiefling [Observer]([[Observers]]) that made it his responsibility to keep tabs on your group. We've since killed him.

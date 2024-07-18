@@ -1,0 +1,1 @@
+- Garnet Redmount is wealthy merchant in [[Everhome]]. He appeared on a list composed of people that [[Wenlen]] thinks [[Jelen Stinger]] trusted. We've saved him from [[Aspiration]]. He gave us magic items, and just wants to be rid of this chaos and return to his cushy lifestyle.
