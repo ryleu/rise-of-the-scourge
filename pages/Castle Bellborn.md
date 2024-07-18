@@ -1,0 +1,1 @@
+- Castle Bellborn is a stout building in [[Everhome]] where the Alderman of [[Akerheim]] lives.

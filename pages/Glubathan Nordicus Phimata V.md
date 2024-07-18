@@ -1,0 +1,1 @@
+- Glubathan was yellow axolotl monk who was married to Koral. Together they had 90 kids and lived in [[Lashana]]. He was a sweet man who loved everyone. He was killed in a battle against a [half elf]([[Glubathan's Killer]]) who we followed into a basement.
