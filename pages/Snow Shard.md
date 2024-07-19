@@ -1,0 +1,2 @@
+- [[Elemental Stone]] of cold.
+- Formed in the northern parts of [[Akerheim]].

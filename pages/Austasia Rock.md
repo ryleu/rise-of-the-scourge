@@ -1,0 +1,2 @@
+- [[Elemental Stone]] of earth.
+- Formed in [[Austasia]].

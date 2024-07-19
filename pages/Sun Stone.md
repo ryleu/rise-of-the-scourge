@@ -1,0 +1,2 @@
+- [[Elemental Stone]] of fire.
+- Formed by the sun baking the sand in [[Sh'Rahl]] until it forms a Sun Stone.

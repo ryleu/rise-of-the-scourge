@@ -1,0 +1,2 @@
+- [[Elemental Stone]] of water.
+- Formed in [[Lashana]] .

@@ -1,0 +1,2 @@
+- [[Elemental Stone]] of wind.
+- Formed by the wind flowing across the sand dunes in [[Sh'Rasa]].

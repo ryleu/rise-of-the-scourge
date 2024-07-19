@@ -1,0 +1,2 @@
+- Was once at war with [[Sh'Rahl]].
+- Main export is [[Gale Glitter]].
