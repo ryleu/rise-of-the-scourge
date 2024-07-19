@@ -1,1 +1,1 @@
-- Protected [[Sh'Rhal]] , wielded [[Scourge Bane]] , and embodied the sphere of Perfection.
+- Protected [[Sh'Rahl]] , wielded [[Scourge Bane]] , and embodied the sphere of Perfection.

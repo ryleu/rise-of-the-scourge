@@ -1,0 +1,1 @@
+- Generic term for a creature infected with [[The Scourge]]. Scourge Thralls tend to be tougher and stronger than their hosts.

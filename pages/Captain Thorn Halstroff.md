@@ -1,1 +1,4 @@
 - Current Alderman of [[Akerheim]].
+- Thorn was [[Wayde Rasmus]]'s captain back in his raiding days.
+- Thorn raised an army and took [[Everhome]] from [[Alderman Ravenswon]].
+- Thorn is missing a hand and has a mechanical replacement with swappable attachments.

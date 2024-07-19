@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["king leoben's letter" "the five devout" "king leoben's journal"]
+ :favorites ["The Triton’s Prophecy" "Ammit's Scroll" "Jelen's Notes" "The Oral Tradition" "Aleon's Scourge Experimentation" "The New Devout" "king leoben's journal" "king leoben's letter" "the five devout"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -414,4 +414,8 @@
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :graph/settings {:orphan-pages? true}
+ :graph/forcesettings {:charge-strength -900
+ :charge-range 500
+ :link-dist 60}}

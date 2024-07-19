@@ -1,0 +1,1 @@
+- Vivre Rahon was one of [[Oliver Holloway]]'s housemates. She was infected with [[Scourge Kiss]] and turned into [[The Stalker]].

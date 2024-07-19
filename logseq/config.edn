@@ -414,4 +414,8 @@
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :graph/settings {:orphan-pages? true}
+ :graph/forcesettings {:charge-strength -600
+ :charge-range 800
+ :link-dist 60}}

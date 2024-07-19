@@ -1,1 +1,1 @@
--
+- House Norwick was attempting to summon [[The Colossus]]. [[Lady Norwick]] headed this operation up, possibly at the behest of someone named [[Kane]].

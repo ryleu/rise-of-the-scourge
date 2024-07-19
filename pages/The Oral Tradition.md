@@ -6,3 +6,5 @@
 - ## [[The Storm]]
   > [[The Storm]] is to be contained at all costs. It's mere existence is a threat to all that is good. It will bring desolation to the entire world should it enter the fight. It theoretically has a physical form that is able to be killed, but pulling that off would be near impossible, as it lives in the sky.
 - > The only thing keeping the [[The Vilebeasts]] in check right now is that they require sacrifices, lots of sacrifices. Though the specifics have been lost to time, you know there is an order to the sacrifices. The stronger [Vilebeasts]([[The Vilebeasts]]) need higher quality sacrifices.
+- ## [[Evalla]]
+- > During her reign, she was above [[The Five Devout]]. In her first clash with [[Raznesh]], [[The People Down Under]] were pulled underground into [[Vemosa]] . She was not around for the second coming, which forced [[The Five Devout]] to instead lock [[The Scourge]] away in the [[Vaults]]. Now that [[The Scourge]] is breaking out for round three, [[Evalla]] is still nowhere to be seen.

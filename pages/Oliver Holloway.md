@@ -1,0 +1,1 @@
+- [[Rosemary Holloway]]'s younger brother. He was killed by [[The Stalker]] right after [[Vivre Rahon]] transformed.

@@ -1,0 +1,1 @@
+- There was one in [[Norwick Manor]] and there was one in [[Castle Bellborn]]. They seem to be a device that can be used to communicate with each other.
