@@ -1,0 +1,1 @@
+- Elemental stones are formed in places that have a strong connection to the natural world. These stones can then be harvested and used for magical purposes.

@@ -1,3 +1,3 @@
 - Rosemary Holloway is a tiefling whose father abandoned her and whose mother was ill before dying.
 - She previously worked for and was abused by [[King Leoben]].
-- Her younger brother [[Oliver Holloway]] was killed by [[The Stalker]] and she is currently hell-bent on revenge.
+- Her younger brother [[Oliver Holloway]] was killed by the [[Stalker]] and she is currently hell-bent on revenge.

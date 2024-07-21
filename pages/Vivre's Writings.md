@@ -4,4 +4,4 @@
   > Collecting faces one by one.
   > That isn’t [Iris]([[Iris the Muse]]) that isn’t Iris that isn’t Iris that isn’t Iris that isn’t Iris.
   > I’m the next face.
-  > [[The Stalker]].
+  > The [[Stalker]].

@@ -1,0 +1,1 @@
+- A society of people from [[Vemosa]] . They are protected from [[Raznesh]] by a shard of [[Evalla]]'s holy power.

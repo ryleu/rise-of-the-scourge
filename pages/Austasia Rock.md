@@ -1,2 +1,2 @@
-- [[Elemental Stone]] of earth.
+- [[Elemental Stone]] of life.
 - Formed in [[Austasia]].

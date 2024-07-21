@@ -1,1 +1,0 @@
-- A society of people from [[Vemosa]] .

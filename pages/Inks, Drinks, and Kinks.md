@@ -1,3 +1,3 @@
 - A tattoo parlor, bar, and gentleman's club all at once.
 - Run by [[Rafia]].
-- Housed [[King Leoben]] until he was replaced by [[The Stalker]].
+- Housed [[King Leoben]] until he was replaced by the [[Stalker]].

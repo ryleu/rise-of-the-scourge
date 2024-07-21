@@ -1,13 +1,13 @@
 - After talking to—and subsequently killing—Vincent, the party entered his cell and found visions carved into the walls.
 -
-- > [[Vivre Rahon]] will be infected with [[Scourge Kiss]] and turn into [[The Stalker]].
-- This vision has already come true. [[The Stalker]] is at large.
+- > [[Vivre Rahon]] will be infected with [[Scourge Kiss]] and turn into the [[Stalker]].
+- This vision has already come true. The [[Stalker]] is at large.
 -
 - > [[The Golden Threads]] ? We won’t get them.
 - This may be in reference to the fact that the party found [[The Golden Threads]] before [[The Order of Silence]] did.
 -
 - > [[Austasia]] doesn’t belong to us yet! But maybe soon?
-- It seems that the party thwarted this for now by deterring [[The Stalker]].
+- It seems that the party thwarted this for now by deterring [[The Colossus]] .
 -
 - > The Mythling father will die at our hands hahahahahahahahaha.
 - Poor [[Glubathan Nordicus Phimata V]].

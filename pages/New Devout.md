@@ -1,4 +1,4 @@
-- The new [Five Devout]([[The Five Devout]]).
+- The new [[Five Devout]].
 - Also known as the party.
 - Also known as us.
 - |  Devotee|Sphere| Relic|
