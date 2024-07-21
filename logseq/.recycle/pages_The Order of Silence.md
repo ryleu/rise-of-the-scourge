@@ -1,0 +1,3 @@
+- The Order of Silence is a secret group that wants to control the [[Scourge]].
+- They are led by the [[Survivor of Viril]].
+- They might have a way of controlling the [[Vilebeasts]].

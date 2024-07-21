@@ -1,0 +1,1 @@
+- The party's sponsor. Was at the bottom of the totem pole until they claimed the throne after the [[The Colossus]] attacked. This is because [[Princess Melia]] convinced everyone else that they (as the sponsors of the party) were behind stopping [[The Colossus]].

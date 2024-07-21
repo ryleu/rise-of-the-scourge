@@ -1,1 +1,1 @@
-- Lightstone Tablets are communication devices that were originally used by the [[Five Devout]]. The [[New Devout]] can use the tablets if they have a [Relic of Light]([[The Relics of Light]]).
+- Lightstone Tablets are communication devices that were originally used by the [[Five Devout]]. The [[New Devout]] can use the tablets if they have a [Relic of Light](the [[Relics of Light]]).

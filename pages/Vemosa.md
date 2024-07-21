@@ -1,1 +1,1 @@
-- Vemosa is [[Raznesh]]'s realm of darkness and [[The Scourge]]. It is located deep underground, even under the seas of the world. The [[Vaults]] are located in Vemosa.
+- Vemosa is [[Raznesh]]'s realm of darkness and the [[Scourge]]. It is located deep underground, even under the seas of the world. The [[Vaults]] are located in Vemosa.

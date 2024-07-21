@@ -1,2 +1,2 @@
-- Was at war with [[Sh'Rasa]] long ago (between the second and third appearances of [[The Scourge]]).
+- Was at war with [[Sh'Rasa]] long ago (between the second and third appearances of the [[Scourge]]).
 - Main export is [[Sun Stone]].

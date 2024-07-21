@@ -1,0 +1,1 @@
+- Protected [[Lashana]] , wielded [[The Pure Silk]] , and embodied the sphere of Life.

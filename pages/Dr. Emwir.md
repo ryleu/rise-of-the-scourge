@@ -1,1 +1,1 @@
-- He was a doctor. He was druid that was infected with [[The Scourge]], but could somewhat control it with his wildshape. He was overrun by [[The Scourge]] before the party slew him.
+- He was a doctor. He was druid that was infected with the [[Scourge]], but could somewhat control it with his wildshape. He was overrun by the [[Scourge]] before the party slew him.

@@ -1,1 +1,1 @@
-- Evalla is the Goddess of [[The Golden Hearth]].
+- Evalla is the Goddess of the [[Golden Hearth]].

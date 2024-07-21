@@ -1,0 +1,1 @@
+- Strikas Dhoom is a trickery domain cleric turned bard from [[Sh'Rasa]]. He claims to be trying to fight [[The Scourge]] to help his family business work efficiently. He is [Iris]([[Iris the Muse]])' champion, and wielder of [[The Golden Threads]].

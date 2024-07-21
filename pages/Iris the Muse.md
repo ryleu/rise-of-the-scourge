@@ -1,1 +1,1 @@
-- Protected [[Austasia]] , wielded [[The Golden Threads]] , and embodied the sphere of Creation.
+- Protected [[Austasia]] , wielded the [[Golden Threads]] , and embodied the sphere of Creation.

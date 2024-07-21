@@ -3,11 +3,11 @@
 - > [[Vivre Rahon]] will be infected with [[Scourge Kiss]] and turn into the [[Stalker]].
 - This vision has already come true. The [[Stalker]] is at large.
 -
-- > [[The Golden Threads]] ? We won’t get them.
-- This may be in reference to the fact that the party found [[The Golden Threads]] before [[The Order of Silence]] did.
+- > the [[Golden Threads]] ? We won’t get them.
+- This may be in reference to the fact that the party found the [[Golden Threads]] before the [[Order of Silence]] did.
 -
 - > [[Austasia]] doesn’t belong to us yet! But maybe soon?
-- It seems that the party thwarted this for now by deterring [[The Colossus]] .
+- It seems that the party thwarted this for now by deterring the [[Colossus]] .
 -
 - > The Mythling father will die at our hands hahahahahahahahaha.
 - Poor [[Glubathan Nordicus Phimata V]].
@@ -16,8 +16,8 @@
 - Unsure if this has come true. Who or what is pink? Perhaps [[Rosemary Holloway]]?
 -
 - > Yellow Sword? Is it ours? Can’t see yet.
-- Unknown what this references. Perhaps one of [[The Relics of Light]]?
+- Unknown what this references. Perhaps one of the [[Relics of Light]]?
 -
 - > Storm… Soon… soon indeed.
-- Could be in reference to [[The Storm]]?
+- Could be in reference to the [[Storm]]?
 -

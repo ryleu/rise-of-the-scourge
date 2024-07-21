@@ -1,1 +1,1 @@
-- Aleon is a cleric who lived in [[Akerheim]] and studied [[The Scourge]].
+- Aleon is a cleric who lived in [[Akerheim]] and studied the [[Scourge]].

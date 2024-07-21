@@ -1,0 +1,2 @@
+- We think it's a big tower in the middle of the ocean.
+- It may be an attempt from [[The Order of Silence]] to control [[The Storm]].

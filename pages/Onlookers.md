@@ -1,3 +1,3 @@
-- Onlookers have visions of the future as it relates to [[The Scourge]].
+- Onlookers have visions of the future as it relates to the [[Scourge]].
 - [[Vincent]] was an Onlooker.
 - [[Noel Ashtenbloom]] may be an Onlooker.

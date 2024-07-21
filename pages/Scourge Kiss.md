@@ -1,1 +1,1 @@
-- Scourge Kiss is an infectious disease that will eventually turn the infected into [[Scourge Thralls]].
+- [[Scourge]] Kiss is an infectious disease that will eventually turn the infected into [[Scourge Thralls]].
