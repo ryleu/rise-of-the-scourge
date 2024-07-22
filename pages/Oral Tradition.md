@@ -1,9 +1,9 @@
 - This is the [[People Down Under]]'s knowledge of past actions that have been passed down through generations.
-- ## [[Stalker]]
+- ## The [[Stalker]]
   > The [[Stalker]] is the weakest of the [[Vilebeasts]], so it relies on stealth and deception to sew distrust in it's enemies. It is able to perfectly copy the form of those that it has killed, and when it is in one of it's disguises, it is free from the detection of all but the strongest of Divination Magic.
-- ## the [[Colossus]]
+- ## The [[Colossus]]
   > the [[Colossus]] is the most outright destructive of all the [[Vilebeasts]]. It's only goal is to consume and grow, which it does by which it does by adding the carnage of what it destroys to its biomass. If left unchecked for too long, it will spiral out of control and become near unkillable. Once summoned it neds to be killed quickly if there is to be hope of stopping it.
-- ## the [[Storm]]
+- ## The [[Storm]]
   > the [[Storm]] is to be contained at all costs. It's mere existence is a threat to all that is good. It will bring desolation to the entire world should it enter the fight. It theoretically has a physical form that is able to be killed, but pulling that off would be near impossible, as it lives in the sky.
 - > The only thing keeping the [[Vilebeasts]] in check right now is that they require sacrifices, lots of sacrifices. Though the specifics have been lost to time, you know there is an order to the sacrifices. The stronger [[Vilebeasts]] need higher quality sacrifices.
 - ## [[Evalla]]

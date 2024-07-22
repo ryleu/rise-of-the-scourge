@@ -1,2 +1,2 @@
 - This is killing people who talk about it in [[Akerheim]].
-- The party defeated The Lurker.
+- The party defeated the Lurker.
