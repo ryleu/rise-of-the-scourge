@@ -1,1 +1,1 @@
-- Evalla is the Goddess of the [[Golden Hearth]].
+- Evalla is the Goddess of the [[Golden Hearth]]. She embodies resolve, life, perfection, creation, and freedom.

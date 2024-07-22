@@ -1,0 +1,4 @@
+- [[Ammit Zahra]]'s sister.
+- She killed her parents and destroyed her village in a fire.
+- She was a vessel for the [[Storm]].
+- The [[New Devout]] killed her with a small bomb made of 36 instances of Gylph of Warding, totaling 426 damage.
