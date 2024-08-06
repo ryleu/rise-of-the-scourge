@@ -4,4 +4,4 @@
 - The party suspects her patron may be a [[Scourge]]-infected fae.
 - The party suspects the reason she cannot talk about the deal is because of a clause in the deal.
 - Daugter of [[King Leoben]]. She ran away when she was young. She did not, in fact, come from a small town in [[Austasia]].
-- Her real name is Lyra Leoben.
+- Her dead name is Lyra Leoben.
