@@ -1,0 +1,1 @@
+- [[Osiren the Sword]]'s [[Vault]]. It was made to hold [[Evalla’s Holy Blade]]. It is located in [[Akerheim]].

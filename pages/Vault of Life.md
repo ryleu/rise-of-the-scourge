@@ -1,0 +1,1 @@
+- [[Laila the Merciful]]'s [[Vault]]. It was made to hold the [[Pure Silk]]. It is located in [[Lashana]].

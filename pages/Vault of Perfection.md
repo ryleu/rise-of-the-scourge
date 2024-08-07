@@ -1,0 +1,1 @@
+- [[Kahl the Mountain]]'s [[Vault]]. It was made to hold [[Scourge Bane]]. It is located in [[Sh'Rahl]].

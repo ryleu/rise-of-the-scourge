@@ -1,1 +1,2 @@
-- He was a crazy man locked up in a dungeon. We saw recordings of [[Vincent's Visions]] carved into the walls with a spoon.
+- He was a childhood friend of [[Rosemary Holloway]].
+- We found him locked up in a dungeon. We saw recordings of [[Vincent's Visions]] carved into the walls with a spoon.

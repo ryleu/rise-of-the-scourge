@@ -1,0 +1,1 @@
+- [[Caelus the Feather]]'s [[Vault]]. It was made to hold the [[Shadowslayer Twinblades]]. It is located in [[Sh'Rasa]].

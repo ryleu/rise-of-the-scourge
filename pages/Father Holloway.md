@@ -1,0 +1,2 @@
+- He left [[Mother Holloway]], [[Oliver Holloway]], and [[Rosemary Holloway]] when [[Rosemary Holloway]] was young.
+- [[Wayde Rasmus]] has said, "It takes a real bastard to leave your daughter and your son alone in the world." in reference to him.

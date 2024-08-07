@@ -1,0 +1,1 @@
+- [[Noel Ashtenbloom]]'s warlock patron.

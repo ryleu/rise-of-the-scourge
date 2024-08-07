@@ -1,0 +1,1 @@
+- [[Iris the Muse]]'s [[Vault]]. It was made to hold the [[Golden Threads]]. It is located in [[Austasia]].
