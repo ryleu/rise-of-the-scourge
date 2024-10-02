@@ -1,1 +1,0 @@
-- Our sponsor and advisor.
