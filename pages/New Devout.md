@@ -5,7 +5,7 @@
   |--|--|--|
   | [[Wayde Rasmus]] |Resolve|[[Evalla’s Holy Blade]]|
   |UNKNOWN|Life|The [[Pure Silk]]|
-  |UNKNOWN|Perfection|[[Scourge Bane]]|
+  | [[Paraclesus Hearthmire]] |Perfection|[[Scourge Bane]]|
   | [[Strikas Dhoom]] |Creation|The [[Golden Threads]]|
   |UNKNOWN|Freedom|The [[Shadowslayer Twinblades]]|
 - It can be reasonably inferred that [[Rosemary Holloway]] will eventually wield the [[Shadowslayer Twinblades]].
